@@ -1,0 +1,36 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 20.19.15.4835]
+    Renderer: Intel(R) Iris(TM) Pro Graphics 5200
+    Vendor:   Intel
+    VRAM:     1136 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jskim\Documents\BoxRunner3\BoxRunner2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jskim\Documents\BoxRunner3\BoxRunner2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jskim\Documents\BoxRunner3\BoxRunner2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jskim\Documents\BoxRunner3\BoxRunner2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 2880x1800 60Hz; virtual: 2880x2880 at 0,-1080
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+UnloadTime: 2.239343 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 1293.
+Total: 4.506679 ms (FindLiveObjects: 0.144157 ms CreateObjectMapping: 0.072312 ms MarkObjects: 0.472128 ms  DeleteObjects: 0.168883 ms)
+
+UnloadTime: 2.400763 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1295.
+Total: 4.119459 ms (FindLiveObjects: 0.148356 ms CreateObjectMapping: 0.054584 ms MarkObjects: 0.412412 ms  DeleteObjects: 0.033123 ms)
+
+UnloadTime: 2.822039 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1296.
+Total: 4.081204 ms (FindLiveObjects: 0.119431 ms CreateObjectMapping: 0.068579 ms MarkObjects: 0.377422 ms  DeleteObjects: 0.032190 ms)
+
